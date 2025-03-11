@@ -1,6 +1,8 @@
-"""
-DisplayBalance项目的主要源代码包
-""" 
+# _*_ coding: utf-8 _*_
+# @Time    : 2025/3/11 15:16
+# @Author  : Guanhao Sun
+# @File    : __init__.py
+# @IDE     : PyCharm
 
 version = "0.1.0"
 author = "SunGuanhao"
